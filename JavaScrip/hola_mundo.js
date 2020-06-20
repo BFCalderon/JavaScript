@@ -104,17 +104,17 @@ function funcionConRetorno(numberOne, numberTwo){
 }
 document.write("Funcion con Retorno - Multiplicacion: " + funcionConRetorno(5, 2)+ "<br />")
 
-/*var nombre = prompt("Ingrese su nombre:")
+var nombre = prompt("Ingrese su nombre:")
 if(nombre != null)
     alert(nombre)
 else
-    alert("No ha ingresa su nombre")*/
+    alert("No ha ingresa su nombre")
 
-/*var confirmDialog = confirm("Confirma que esta correcto el dialogo")
+var confirmDialog = confirm("Confirma que esta correcto el dialogo")
 if(confirmDialog == true)
     alert("Dialogo Confirmado")
 else 
-    alert("Dialogo Cancelado")*/
+    alert("Dialogo Cancelado")
 
     function varTest(){
         var x = 1;
